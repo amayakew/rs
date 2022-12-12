@@ -1,1 +1,1 @@
-https://amayakew.github.io/rs/cv
+https://amayakew.github.io/rs/
